@@ -1,4 +1,4 @@
-Below is an example of a complete README.md file for your project. You can copy this content into your repository’s README.md file.
+
 
 ---
 
