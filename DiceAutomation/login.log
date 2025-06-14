@@ -1,0 +1,388 @@
+2025-05-15T12:12:48.371395200 - Starting DiceLogin process
+2025-05-15T12:12:52.020329400 - Playwright initialized
+2025-05-15T12:12:52.766661200 - Browser launched
+2025-05-15T12:12:53.104839800 - New page created
+2025-05-15T12:12:53.466505700 - Navigated to login page
+2025-05-15T12:12:53.494371300 - Browser window maximized
+2025-05-15T12:12:53.495906400 - Starting login attempt
+2025-05-15T12:12:53.865726400 - Entered email
+2025-05-15T12:12:54.224812 - Pressed Enter on email field
+2025-05-15T12:12:55.218734 - Password field available
+2025-05-15T12:12:55.237171200 - Entered password
+2025-05-15T12:12:55.313701300 - Pressed Enter on password field
+2025-05-15T12:12:55.318254700 - Page load completed after submit
+2025-05-15T12:12:55.325548500 - Starting login attempt
+2025-05-15T12:13:25.332672200 - Closing logger
+2025-05-15T12:14:12.686727700 - Starting DiceLogin process
+2025-05-15T12:14:16.262164400 - Playwright initialized
+2025-05-15T12:14:17.006021100 - Browser launched
+2025-05-15T12:14:17.331826800 - New page created
+2025-05-15T12:14:17.798349800 - Navigated to login page
+2025-05-15T12:14:17.824506300 - Browser window maximized
+2025-05-15T12:14:17.826025100 - Starting login attempt
+2025-05-15T12:14:18.458313800 - Entered email
+2025-05-15T12:14:18.565931700 - Pressed Enter on email field
+2025-05-15T12:14:19.477915 - Entered password
+2025-05-15T12:14:19.572580500 - Pressed Enter on password field
+2025-05-15T12:14:19.575678900 - Page load completed after submit
+2025-05-15T12:14:19.579764200 - 'Your Profile' not visible, retrying login
+2025-05-15T12:14:19.579764200 - Starting login attempt
+2025-05-15T12:14:29.592913900 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:14:29.592913900 - Starting login attempt
+2025-05-15T12:14:39.596317400 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:14:39.596317400 - Starting login attempt
+2025-05-15T12:14:49.606958300 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:14:49.607968900 - Starting login attempt
+2025-05-15T12:14:59.612793 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:14:59.612793 - Starting login attempt
+2025-05-15T12:15:09.618135800 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:09.618135800 - Starting login attempt
+2025-05-15T12:15:19.620199600 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:19.620199600 - Starting login attempt
+2025-05-15T12:15:29.631691400 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:29.631691400 - Starting login attempt
+2025-05-15T12:15:39.639217400 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:39.639217400 - Starting login attempt
+2025-05-15T12:15:49.649334200 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:49.649334200 - Starting login attempt
+2025-05-15T12:15:59.662616600 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:15:59.662616600 - Starting login attempt
+2025-05-15T12:16:09.666779800 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:09.667370200 - Starting login attempt
+2025-05-15T12:16:19.667429400 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:19.667429400 - Starting login attempt
+2025-05-15T12:16:29.673356500 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:29.673356500 - Starting login attempt
+2025-05-15T12:16:39.687314300 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:39.687314300 - Starting login attempt
+2025-05-15T12:16:49.695863200 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:49.695863200 - Starting login attempt
+2025-05-15T12:16:59.703521400 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:16:59.703521400 - Starting login attempt
+2025-05-15T12:17:09.717448300 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:17:09.717448300 - Starting login attempt
+2025-05-15T12:17:19.723869100 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:17:19.723869100 - Starting login attempt
+2025-05-15T12:17:29.730719100 - Timeout while attempting login step, retrying: Error {
+  message='Timeout 10000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 10000ms exceeded.
+    at ProgressController.run (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\progress.js:78:26)
+    at Frame.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\frames.js:619:23)
+    at FrameDispatcher.waitForSelector (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\frameDispatcher.js:106:103)
+    at FrameDispatcher._handleCommand (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\apaosha\AppData\Local\Temp\playwright-java-5347982360349248968\package\lib\server\dispatchers\dispatcher.js:365:39)
+}
+Call log:
+- waiting for locator("input[name=\"email\"]") to be visible
+
+2025-05-15T12:17:29.730719100 - Starting login attempt
+2025-05-15T13:08:19.144410300 - Starting DiceLogin process
+2025-05-15T13:08:23.170303800 - Playwright initialized
+2025-05-15T13:08:24.201865200 - Browser launched
+2025-05-15T13:08:24.569001200 - New page created
+2025-05-15T13:08:24.579357900 - Browser window maximized
+2025-05-15T13:08:24.610369700 - Performing login attempt
+2025-05-15T13:08:25.638361700 - Entered email
+2025-05-15T13:08:25.930702200 - Submitted email
+2025-05-15T13:08:26.312322700 - Entered password
+2025-05-15T13:08:26.358868400 - Submitted password
+2025-05-15T13:08:26.358868400 - Login submission completed
+2025-05-15T13:08:26.361387100 - Performing login attempt
+2025-05-15T13:08:26.961922100 - Entered email
+2025-05-15T13:08:27.333230 - Submitted email
+2025-05-15T13:08:27.900228200 - Entered password
+2025-05-15T13:08:28.000015400 - Submitted password
+2025-05-15T13:08:28.000519700 - Login submission completed
+2025-05-15T13:08:28.006633100 - Performing login attempt
+2025-05-15T13:08:29.095680100 - Entered email
+2025-05-15T13:08:29.313175700 - Submitted email
+2025-05-15T13:08:29.683760700 - Entered password
+2025-05-15T13:08:29.770540800 - Submitted password
+2025-05-15T13:08:29.770540800 - Login submission completed
+2025-05-15T13:08:29.778523400 - Performing login attempt
+2025-05-15T13:08:30.623521500 - Entered email
+2025-05-15T13:08:30.904580400 - Submitted email
+2025-05-15T13:08:31.818938200 - Entered password
+2025-05-15T13:08:31.918838600 - Submitted password
+2025-05-15T13:08:31.920900100 - Login submission completed
+2025-05-15T13:08:31.927517900 - Performing login attempt
+2025-05-15T13:08:32.917447800 - Entered email
+2025-05-15T13:08:33.100438500 - Submitted email
+2025-05-15T13:08:33.458519400 - Entered password
+2025-05-15T13:08:33.539027500 - Submitted password
+2025-05-15T13:08:33.539027500 - Login submission completed
+2025-05-15T13:08:33.545174400 - Performing login attempt
+2025-05-15T13:08:34.255120200 - Entered email
+2025-05-15T13:08:34.531647600 - Submitted email
+2025-05-15T13:08:34.875295500 - Entered password
+2025-05-15T13:08:34.949714900 - Submitted password
+2025-05-15T13:08:34.949714900 - Login submission completed
+2025-05-15T13:08:34.952755300 - Performing login attempt
+2025-05-15T13:08:35.629106900 - Entered email
+2025-05-15T13:08:35.883293200 - Submitted email
+2025-05-15T13:08:36.805710100 - Entered password
+2025-05-15T13:08:36.878341100 - Submitted password
+2025-05-15T13:08:36.878341100 - Login submission completed
+2025-05-15T13:08:36.880913300 - Performing login attempt
+2025-05-15T13:08:37.677267100 - Entered email
+2025-05-15T13:08:37.838852200 - Submitted email
+2025-05-15T13:08:38.155075700 - Entered password
+2025-05-15T13:08:38.228010400 - Submitted password
+2025-05-15T13:08:38.229528800 - Login submission completed
+2025-05-15T13:08:38.232594200 - Performing login attempt
+2025-05-15T13:08:38.988257200 - Entered email
+2025-05-15T13:08:39.187147200 - Submitted email
+2025-05-15T13:08:40.050458200 - Entered password
+2025-05-15T13:08:40.120324200 - Submitted password
+2025-05-15T13:08:40.120324200 - Login submission completed
+2025-05-15T13:08:40.125484300 - Performing login attempt
+2025-05-15T13:08:40.915262 - Entered email
+2025-05-15T13:08:41.093934600 - Submitted email
+2025-05-15T13:08:42.034186100 - Entered password
+2025-05-15T13:08:42.113563700 - Submitted password
+2025-05-15T13:08:42.113563700 - Login submission completed
+2025-05-15T13:08:42.116660800 - Performing login attempt
+2025-05-15T13:08:42.828894800 - Entered email
+2025-05-15T13:08:43.145352 - Submitted email
+2025-05-15T13:08:43.523349700 - Entered password
+2025-05-15T13:08:43.601816300 - Submitted password
+2025-05-15T13:08:43.601816300 - Login submission completed
+2025-05-15T13:08:43.605435900 - Performing login attempt
+2025-05-15T13:08:44.473404 - Entered email
+2025-05-15T13:08:44.723380100 - Submitted email
+2025-05-15T13:08:45.111022400 - Entered password
+2025-05-15T13:08:45.189084500 - Submitted password
+2025-05-15T13:08:45.189084500 - Login submission completed
+2025-05-15T13:08:45.193641600 - Performing login attempt
+2025-05-15T13:08:45.841673 - Entered email
+2025-05-15T13:08:46.172807900 - Submitted email
+2025-05-15T13:08:47.090091200 - Entered password
+2025-05-15T13:08:47.171494 - Submitted password
+2025-05-15T13:08:47.171494 - Login submission completed
+2025-05-15T13:08:47.175588900 - Performing login attempt
+2025-05-15T13:08:47.797400500 - Entered email
+2025-05-15T13:08:48.133481800 - Submitted email
+2025-05-15T13:08:48.538802900 - Entered password
+2025-05-15T13:08:48.696671100 - Submitted password
+2025-05-15T13:08:48.696671100 - Login submission completed
+2025-05-15T13:08:48.703317800 - Performing login attempt
+2025-05-15T13:08:49.574997300 - Entered email
+2025-05-15T13:08:49.788597700 - Submitted email
+2025-05-15T13:08:50.183355200 - Closing logger
