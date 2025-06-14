@@ -111,14 +111,14 @@ public class DiceLogin {
 
             log.accept("Filling email");
             Locator emailInput = page.locator("input[name=\"email\"]");
-            emailInput.type("benyamin.mohamadalizadeh61@gmail.com");
+            emailInput.type("your_email_here");                                                              // Put your email here 
             Thread.sleep(50);
             emailInput.press("Enter");
 
             log.accept("Waiting for password");
             page.waitForSelector("input[name=\"password\"]", new WaitForSelectorOptions().setTimeout(5_000));
             Locator passwordInput = page.locator("input[name=\"password\"]");
-            passwordInput.type("EvCqcJn!PDYZ_89");
+            passwordInput.type("your_password_here");                                                        // Put your password here
             Thread.sleep(50);
             passwordInput.press("Enter");
 
